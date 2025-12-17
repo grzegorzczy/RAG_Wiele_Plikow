@@ -1,6 +1,7 @@
 python-dotenv
 streamlit
 sentence-transformers
+pypdf
 
 langchain
 langchain-classic
